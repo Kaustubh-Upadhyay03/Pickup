@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "node",
+        "baseUrl": "PickUp-Backend",
+        "outDir": "dist",
+        "sourceMap": true,
+        "noImplicitAny": true,
+    },
+    "include": ["src/**/*"],
+}
